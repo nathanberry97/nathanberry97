@@ -1,8 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanberry97&theme=gruvbox&layout=compact&exclude_repo=github-readme-stats,dotfiles)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there I'm Nathan 👋
+### Hi there 👋
 
-😄 I'm Nathan to have more of a overview vist my [Personal Website](https://nathanberry97.github.io/)
+😄 I'm Nathan to have more of an overview vist my [Personal Website](https://nathanberry97.github.io/)
 ⚡ Fun fact I'm currently obessed with vim and editing my vimrc every other
 second, here are my current [dotfiles](https://github.com/nathanberry97/dotfiles)
 
