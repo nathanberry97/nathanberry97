@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanberry97&theme=gruvbox&layout=compact&exclude_repo=github-readme-stats,dotfiles)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanberry97&theme=nord&layout=compact&exclude_repo=github-readme-stats,dotfiles)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there I'm Nathan 👋
 
