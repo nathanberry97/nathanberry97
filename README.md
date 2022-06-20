@@ -6,9 +6,8 @@ To have more of an overview visit my [Personal Website](https://nathanberry97.gi
 ⚡ Fun fact I'm currently obessed with vim and editing my vimrc every other
 second, here are my current [dotfiles](https://github.com/nathanberry97/dotfiles)
 
-🔭 I’m currently working on [AutoGit](https://github.com/nathanberry97/AutoGit), once
-completed I'm hoping to focus more of my time on writing shell scripts 🌱 I’m currently studying towards RHCSA with hopes to take the certification
-late 2022
+🔭 I’m currently working on [AutoGit](https://github.com/nathanberry97/AutoGit) 
+🌱 I’m currently studying towards RHCSA with hopes to take the certification late 2022
 
 📫 How to reach me:
 
