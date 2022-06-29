@@ -6,7 +6,7 @@ To have more of an overview visit my [Personal Website](https://nathanberry97.gi
 ⚡ Fun fact I'm currently obessed with vim and editing my vimrc every other
 second, here are my current [dotfiles](https://github.com/nathanberry97/dotfiles)
 
-🔭 I’m currently working on refactoring and updating [RetroGames](https://github.com/nathanberry97/RetroGames) 
+🔭 I’m currently working on [StarshipGalactica](https://github.com/nathanberry97/StarshipGalactica) 
 🌱 also I’m currently studying towards RHCSA with hopes to take the certification late 2022
 
 📫 How to reach me:
