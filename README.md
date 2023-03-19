@@ -6,4 +6,4 @@ second, here are my current [dotfiles](https://github.com/nathanberry97/dotfiles
 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/nathan-berry-7b8191115/)
-- [Personal Website](https://nathanberry97.github.io/)
+- [Personal Website](https://nathanberry.co.uk/)
