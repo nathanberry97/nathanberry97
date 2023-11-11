@@ -1,4 +1,4 @@
-# Hi there I'm [Nathan](https://nathanberry.co.uk/) 👋
+# Hi there I'm Nathan👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanberry97&theme=gruvbox&layout=compact)
 
@@ -8,3 +8,4 @@
 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/nathan-berry-7b8191115/)
+- [Personal Website](https://nathanberry.co.uk/)
