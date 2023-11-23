@@ -1,4 +1,4 @@
-# Hi there I'm Nathan👋
+# Hi I'm Nathan👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanberry97&theme=gruvbox&layout=compact)
 
