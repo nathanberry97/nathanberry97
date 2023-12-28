@@ -9,3 +9,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/nathan-berry-7b8191115/)
 - [Personal Website](https://nathanberry.co.uk/)
+- [Twitter](https://twitter.com/nathanberry97)
