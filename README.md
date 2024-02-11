@@ -1,6 +1,6 @@
 # Hi I'm Nathan👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanberry97&theme=gruvbox&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanberry97&theme=nord&layout=compact)
 
 ⚡ Fun fact I like optimising my developer experience to fit my needs, here are my current
 [dotfiles](https://github.com/nathanberry97/dotfiles)!
