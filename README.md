@@ -1,7 +1,5 @@
 # Hi I'm Nathan
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanberry97&theme=nord&layout=compact)
-
 I like optimising my developer experience (I use Neovim, by the way), here is my current [dotfiles](https://github.com/nathanberry97/dotfiles)!
 
 How to reach me or read my current thoughts on all things tech:
